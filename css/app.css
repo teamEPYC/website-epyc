@@ -3332,9 +3332,9 @@ select {
 }
 
 .projects__body .projects__img {
-  top: 12%;
-  left: 10.3%;
-  width: 83%;
+  top: 0%;
+  left: 0%;
+  width: 0%;
 }
 
 .projects__preview {
